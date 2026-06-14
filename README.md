@@ -16,9 +16,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rena-j)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rena-j-b87938331)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rena.j.2024.aids@rajalakshmi.edu.in)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rena-j)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rena-73)
 
 </div>
 
@@ -238,9 +238,9 @@ Open To:
 
 [![Email](https://img.shields.io/badge/Email-rena.j.2024.aids@rajalakshmi.edu.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rena.j.2024.aids@rajalakshmi.edu.in)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rena%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rena-j)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rena%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rena-j-b87938331)
 
-[![GitHub](https://img.shields.io/badge/GitHub-rena--j-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rena-j)
+[![GitHub](https://img.shields.io/badge/GitHub-rena--j-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rena-73)
 
 </div>
 
