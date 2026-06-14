@@ -116,7 +116,7 @@ Built a comprehensive full-stack web application to recommend eco-friendly alter
 - Created responsive UI with intuitive product recommendation system
 - Deployed with MongoDB Atlas cloud database integration
 
-**Repository:** [Eco-Switch](https://github.com/rena-j/eco-switch)
+**Repository:** [Eco-Switch](https://github.com/Rena-73/Ecoswitch-1)
 
 </details>
 
@@ -142,7 +142,7 @@ Developed a web-based result management system for academic institutions to effi
 - Created administrative dashboard for result management
 - Enabled secure storage, retrieval, and updating of student records
 
-**Repository:** [Course-Result-Management](https://github.com/rena-j/course-result-management)
+**Repository:** [Course-Result-Management](https://github.com/Rena-73/COURSE-RESULT-MANAGEMENT-SYSTEM)
 
 </details>
 
