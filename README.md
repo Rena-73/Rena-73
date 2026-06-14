@@ -36,9 +36,9 @@
 
 Passionate **AI Engineer** and **Full Stack Developer** with expertise in building scalable web applications and intelligent systems. Currently pursuing **B.Tech in Artificial Intelligence & Data Science** at Rajalakshmi Engineering College (9.24/10 GPA). Proficient in the **MERN Stack**, **Machine Learning**, and **Data Engineering**.
 
-Dedicated to solving real-world problems through clean, efficient code and data-driven solutions. Strong background in **competitive programming** with **200+ LeetCode problems** solved and **4-star HackerRank** rating. Experienced in **full-stack development**, **API design**, and **ML model development**.
+Dedicated to solving real-world problems through clean, efficient code and data-driven solutions. Strong background in **competitive programming** with **230+ LeetCode problems** solved and **3-star HackerRank** rating. Experienced in **full-stack development**, **API design**, and **ML model development**.
 
-**Open To:** Internships | Full-time roles | Open Source Collaboration | AI/ML Research | Web3 Projects
+**Open To:** Internships | Open Source Collaboration | AI/ML Research | Web Projects
 
 ---
 
@@ -173,7 +173,7 @@ Developed full-stack web applications using the MERN stack, focusing on scalable
 | Recognition | Details |
 |---|---|
 | **LeetCode Expert** | Solved 230+ algorithmic problems, Expert proficiency in DSA |
-| **HackerRank 4-Star Coder** | 4-Star rating in Python, 3-star in C, and Problem Solving |
+| **HackerRank 3-Star Coder** | 3-Star rating in Python, Java , C, and Problem Solving |
 | **UiPath Certified Developer** | Automation Developer Certification in RPA & Workflow Automation |
 
 </div>
@@ -196,7 +196,7 @@ Developed full-stack web applications using the MERN stack, focusing on scalable
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rena_73)
+[![LeetCode](https://img.shields.io/badge/LeetCode-230%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rena_73)
 [![HackerRank](https://img.shields.io/badge/HackerRank-3%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/rena_j_2024_aids)
 </div>
 
